@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Login App</string>
+    <string name="app_name">Login</string>
 
     <string name="hello_blank_fragment">Welcome</string>
     <string name="swipe_left_for_register">Go Left to Register</string>
